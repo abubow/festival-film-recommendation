@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "HottuDogo",
+  title: "HottoDogu",
   description: "Happy birthday to the cutest person in the world!",
 };
 
