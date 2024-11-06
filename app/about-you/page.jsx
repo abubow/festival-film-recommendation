@@ -1,5 +1,4 @@
-"use client";
-
+import Link from "next/link";
 export default function Home() {
   return (
     <main className="flex items-start justify-center flex-col max-w-[50rem] m-auto text-floral_white-400 my-10 p-6 bg-gray-800 rounded-lg shadow-lg">
@@ -56,6 +55,13 @@ export default function Home() {
       <p className="mt-8 text-right">Take care of yourself, always.</p>
       <p className="text-right">With all my heart,</p>
       <p className="text-right font-bold">Abuzar</p>
+      <Link
+        href="/about-you"
+        color="burgundy"
+        className="bg-burgundy-500 hover:bg-burgundy-600 text-floral_white-400 transition duration-300 ease-in-out py-2 px-4 rounded-lg"
+      >
+        Get your gift! (incomplete 😔 still working on it)
+      </Link>
     </main>
   );
 }
