@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "Id": 1,
+            "Trailer": "https://www.youtube.com/watch?v=4CCh6pk_bhg",
+            "Link": "https://torrent-link-1.com",
+            "Description": "A beautifully crafted tale set in rural Ireland, 'The Quiet Girl' dives deep into the life of a neglected young girl who experiences kindness for the first time.",
+            "Rating": 9,
+            "Name": "The Quiet Girl",
+            "Category": [
+                "Drama",
+                "Festival",
+                "Irish Cinema"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=The+Quiet+Girl+1",
+                "https://dummyimage.com/600x400/000/fff&text=The+Quiet+Girl+2"
+            ]
+        },
+        {
+            "Id": 2,
+            "Trailer": "https://www.youtube.com/watch?v=qUBNFEjBy4g",
+            "Link": null,
+            "Description": "'Titane' is a thrilling, genre-bending film that explores themes of love and family in unconventional ways. A must-watch for fans of edgy French cinema.",
+            "Rating": 8,
+            "Name": "Titane",
+            "Category": [
+                "Thriller",
+                "French Cinema",
+                "Festival"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Titane"
+            ]
+        },
+        {
+            "Id": 3,
+            "Trailer": null,
+            "Link": "https://torrent-link-3.com",
+            "Description": "A hauntingly poetic story of survival in a remote village, 'Beanpole' showcases stunning performances and deep emotional storytelling.",
+            "Rating": 9,
+            "Name": "Beanpole",
+            "Category": [
+                "Drama",
+                "Festival",
+                "Russian Cinema"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Beanpole"
+            ]
+        },
+        {
+            "Id": 4,
+            "Trailer": "https://www.youtube.com/watch?v=AnRXX62vT7E",
+            "Link": "https://torrent-link-4.com",
+            "Description": "An honest portrayal of generational conflict, 'Another Round' is both humorous and thought-provoking, centered on four friends testing their limits.",
+            "Rating": 8,
+            "Name": "Another Round",
+            "Category": [
+                "Drama",
+                "Comedy",
+                "Danish Cinema"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Another+Round+1",
+                "https://dummyimage.com/600x400/000/fff&text=Another+Round+2"
+            ]
+        },
+        {
+            "Id": 5,
+            "Trailer": "https://www.youtube.com/watch?v=8ImvkXgGVWw",
+            "Link": null,
+            "Description": "'Cold War' is a stunningly shot black-and-white romance set against post-war Europe, filled with passion and heartbreak.",
+            "Rating": 9,
+            "Name": "Cold War",
+            "Category": [
+                "Romance",
+                "Drama",
+                "Polish Cinema"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Cold+War"
+            ]
+        },
+        {
+            "Id": 6,
+            "Trailer": "https://www.youtube.com/watch?v=3C6Hg1nJ9Ns",
+            "Link": null,
+            "Description": "A gripping documentary, 'Collective' examines corruption in Romania’s healthcare system and the power of investigative journalism.",
+            "Rating": 10,
+            "Name": "Collective",
+            "Category": [
+                "Documentary",
+                "Romanian Cinema"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Collective"
+            ]
+        },
+        {
+            "Id": 7,
+            "Trailer": "https://www.youtube.com/watch?v=s_4Y-QrxZso",
+            "Link": "https://torrent-link-6.com",
+            "Description": "Exploring love in the digital age, 'Lara' is a character-driven film that offers a raw look at ambition, regret, and reconciliation.",
+            "Rating": 7,
+            "Name": "Lara",
+            "Category": [
+                "Drama",
+                "German Cinema"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Lara"
+            ]
+        },
+        {
+            "Id": 8,
+            "Trailer": null,
+            "Link": null,
+            "Description": "'System Crasher' tells the intense story of a young girl struggling to find a place to belong, showcasing the challenges of social work.",
+            "Rating": 9,
+            "Name": "System Crasher",
+            "Category": [
+                "Drama",
+                "German Cinema",
+                "Festival"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=System+Crasher+1",
+                "https://dummyimage.com/600x400/000/fff&text=System+Crash+2"
+            ]
+        },
+        {
+            "Id": 9,
+            "Trailer": "https://www.youtube.com/watch?v=2Xh39mVxjg0",
+            "Link": "https://torrent-link-7.com",
+            "Description": "A surreal, thought-provoking Spanish drama, 'Pain and Glory' delves into the life of an aging director, exploring themes of nostalgia and redemption.",
+            "Rating": 8,
+            "Name": "Pain and Glory",
+            "Category": [
+                "Drama",
+                "Spanish Cinema",
+                "Festival"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=Pain+and+Glory"
+            ]
+        },
+        {
+            "Id": 10,
+            "Trailer": "https://www.youtube.com/watch?v=TRbFbmHRlwU",
+            "Link": null,
+            "Description": "Set in Iceland, 'A White, White Day' is a compelling drama about grief and obsession, featuring breathtaking cinematography and a powerful performance by the lead.",
+            "Rating": 8,
+            "Name": "A White, White Day",
+            "Category": [
+                "Drama",
+                "Icelandic Cinema",
+                "Festival"
+            ],
+            "Screenshot": [
+                "https://dummyimage.com/600x400/000/fff&text=A+White+White+Day"
+            ]
+        }
+    ]
+}
