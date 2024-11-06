@@ -58,7 +58,7 @@ export default function Home() {
       <Link
         href="/about-you"
         color="burgundy"
-        className="bg-burgundy-500 hover:bg-burgundy-600 text-floral_white-400 transition duration-300 ease-in-out py-2 px-4 rounded-lg"
+        className="bg-burgundy-500 hover:bg-burgundy-600 text-floral_white-400 transition duration-300 ease-in-out py-4 px-6 rounded-lg my-10"
       >
         Get your gift! (incomplete 😔 still working on it)
       </Link>
