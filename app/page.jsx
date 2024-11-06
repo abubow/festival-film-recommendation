@@ -32,7 +32,7 @@ export default function BirthdayPage() {
             Happy Birthday!
           </h1>
           <p className="text-lg text-burgundy-100">
-            Out of a pure selfishness, what I want is for you to have many more! 😊
+            Out of a pure selfishness, what I want is for you is to have many more! 😊
           </p>
           <Link
             href="/about-you"
