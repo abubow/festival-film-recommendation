@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function Home() {
   return (
-    <main className="flex items-start justify-center flex-col max-w-[50rem] m-auto text-floral_white-400 my-10 p-6 bg-gray-800 rounded-lg shadow-lg">
+    <main className="flex items-start justify-center flex-col max-w-[50rem] m-auto text-floral_white-400 my-10 py-6 px-8 bg-gray-800 rounded-lg shadow-lg">
       <h1 className="text-2xl font-bold text-burgundy-500 mb-4">Dear Maria,</h1>
       <p className="mb-4">
         I don't know if I can ever fully express how much I appreciate you and
