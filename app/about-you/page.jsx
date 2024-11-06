@@ -62,6 +62,9 @@ export default function Home() {
       >
         Get your gift! (incomplete 😔 still working on it)
       </Link>
+      <p className="mb-4 font-thin">
+        Apologies I couldn't finish it in time
+      </p>
     </main>
   );
 }
